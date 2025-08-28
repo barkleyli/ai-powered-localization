@@ -126,9 +126,7 @@ Supported Languages
 * Chinese (Simplified, China): zh-Hans-CN
 * French (France): fr-FR
 * German (Germany): de-DE
-
 ...
-
 
 
 
